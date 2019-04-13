@@ -8,7 +8,8 @@
 
 # production
 /build
-
+/server/config/config.json
+/server/config/settings.js
 # misc
 .DS_Store
 .env.local
