@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bwaadmin",
+    "password": null,
+    "database": "ratingng_cbt_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "bwaadmin",
+    "password": null,
+    "database": "ratingng_cbt_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "bwaadmin",
+    "password": null,
+    "database": "ratingng_cbt_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
