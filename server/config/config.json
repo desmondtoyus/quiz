@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "bwaadmin",
-    "password": null,
-    "database": "ratingng_cbt_db",
+    "username": "ratingng_cbt_use",
+    "password": "#Aaa050789",
+    "database": "ratingng_quiz",
     "host": "localhost",
-    "dialect": "postgres"
+    "dialect": "mysql"
   },
   "test": {
     "username": "bwaadmin",
