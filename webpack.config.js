@@ -18,7 +18,7 @@ const config = {
     extensions: ['.web.js', '.js', '.json', '.web.jsx', '.jsx', '.css'],
   },
   devServer: {
-    port: process.env.PORT || 8008,
+    port: process.env.PORT || 50041,
     historyApiFallback: true,
     contentBase: path.join(__dirname, 'build'),
   },
